@@ -11,9 +11,9 @@ Frontend Software Engineer | React Developer | Project Manager
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusPereira64&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPereira64)
 
 ### Core Technologies
 
